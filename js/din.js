@@ -2,7 +2,7 @@ $(document).ready(escribir);
 
 function escribir(){
 	$("#typed").typed({
-		strings: ["la app más fácil para disfrutar reuniones culturales."],
+		strings: ["la app especializada de recintos culturales de Villahermosa Tabasco."],
 		typeSpeed: 50,	
 	})	
 		var menu = 0;
